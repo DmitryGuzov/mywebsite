@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'DigitalSerial';
+  src: url("../logo-font/DigitalSerialBoldItalic.eot");
+  src: url("../logo-font/DigitalSerialBoldItalic.eot?#iefix") format("embedded-opentype"), url("../logo-font/DigitalSerialBoldItalic.woff2") format("woff2"), url("../logo-font/DigitalSerialBoldItalic.woff") format("woff"), url("../logo-font/DigitalSerialBoldItalic.ttf") format("truetype"), url("../logo-font/DigitalSerialBoldItalic.svg#DigitalSerialBoldItalic") format("svg");
+  font-weight: bold;
+  font-style: italic; }
